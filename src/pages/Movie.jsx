@@ -9,6 +9,7 @@ const movies = {
     actors: [
       { name: 'Тімоті Шаламе', photo: 'https://example.com/chalamet.jpg' },
       { name: 'Джоел Едгертон', photo: 'https://example.com/edgerton.jpg' },
+      {name: 'Поліна Лавриненко', photo: 'https://example.com/edgerton.jpg'},
     ]
   },
   'joker': {
