@@ -9,7 +9,7 @@ const movies = {
     actors: [
       { name: 'Тімоті Шаламе', photo: 'https://example.com/chalamet.jpg' },
       { name: 'Джоел Едгертон', photo: 'https://example.com/edgerton.jpg' },
-      {name: 'Поліна Лавриненко', photo: 'https://example.com/edgerton.jpg'},
+      {name: 'Джеремі Айронс', photo: 'https://example.com/edgerton.jpg'},
     ]
   },
   'joker': {
@@ -19,6 +19,7 @@ const movies = {
     actors: [
       { name: 'Хоакін Фенікс', photo: 'https://example.com/phoenix.jpg' },
       { name: 'Роберт Де Ніро', photo: 'https://example.com/deniro.jpg' },
+      { name: 'Джош Пейс', photo: 'https://example.com/deniro.jpg' },
     ]
   }
 };
